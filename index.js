@@ -588,5 +588,5 @@ channel.clone().then(z => {
 })
 
 
-client.login(ayarlar.token);
+client.login(ayarlar.json);
 
